@@ -1,0 +1,2 @@
+ALTER TABLE user_table
+ADD COLUMN user_roles VARCHAR(20) NOT NULL DEFAULT 'USER';
